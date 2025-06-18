@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_register">
+    <sysevent_register action="DELETE">
+        <caller_access/>
+        <derived_priority>100</derived_priority>
+        <description/>
+        <event_name/>
+        <fired_by/>
+        <priority>100</priority>
+        <queue/>
+        <suffix/>
+        <sys_class_name>sysevent_register</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-18 06:53:50</sys_created_on>
+        <sys_id>a54cfa4883562a104430a230ceaad372</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sysevent_register_a54cfa4883562a104430a230ceaad372</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-18 06:53:50</sys_updated_on>
+        <table/>
+    </sysevent_register>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>30b0b819ff59e21cc80bf8e4fc4fd9ae</instance_id>
+        <instance_name>dev340853</instance_name>
+        <name>sysevent_register_a54cfa4883562a104430a230ceaad372</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_register"><sysevent_register action="INSERT_OR_UPDATE"><caller_access/><derived_priority>100</derived_priority><description/><event_name/><fired_by/><priority>100</priority><queue/><suffix/><sys_class_name>sysevent_register</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-06-18 06:53:50</sys_created_on><sys_id>a54cfa4883562a104430a230ceaad372</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sysevent_register_a54cfa4883562a104430a230ceaad372</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-06-18 06:53:50</sys_updated_on><table/></sysevent_register></record_update>]]></payload>
+        <payload_hash>879477659</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>71edcd67838666104430a230ceaad3fc</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-18 06:53:50</sys_created_on>
+        <sys_id>e14cfa4883562a104430a230ceaad375</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19781d0be7c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-18 06:53:50</sys_updated_on>
+        <type>Event Registration</type>
+        <update_guid>e54cfa48cb562a100c83db664578cc74</update_guid>
+        <update_guid_history>e54cfa48cb562a100c83db664578cc74:879477659</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-06-18 06:57:43</sys_created_on>
+        <sys_db_object display_value="" name="sysevent_register">sysevent_register</sys_db_object>
+        <sys_id>19aa7c43295d4c78a4fe40f7f3f11640</sys_id>
+        <sys_metadata>a54cfa4883562a104430a230ceaad372</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sysevent_register_a54cfa4883562a104430a230ceaad372</sys_update_name>
+        <sys_update_version display_value="sysevent_register_a54cfa4883562a104430a230ceaad372">e14cfa4883562a104430a230ceaad375</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-06-18 06:57:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
